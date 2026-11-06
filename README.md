@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**SSeyedein/SSeyedein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seyedein (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate Java & Backend Developer who loves building scalable solutions and solving real-world problems.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SSeyedein/SSeyedein/main/banner.png" alt="Banner"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I specialize in Java development, Spring Ecosystem, and enterprise web applications. I enjoy tackling complex architectural challenges and continuously expanding my backend engineering skills.
+
+## Skills & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,postman,maven,docker,js,html,css,git,github,idea" />
+  </a>
+</p>
+
+## Top Projects
+
+- 🛠️ **[Home Services](https://github.com/SSeyedein/homeService)**: A Java-based backend platform connecting customers with service experts. Built with Spring Boot, featuring role-based access control, secure JWT authentication, payment integration, and automated rating adjustments.
+- 🎓 **[Educational Management System](https://github.com/SSeyedein/Educational_Management_System)**: A comprehensive platform designed to manage educational entities, including administrators, teachers, and students.
+
+## Connect with Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/seyedein](https://www.linkedin.com/in/seyedein)
+- 🐙 **GitHub**: [@SSeyedein](https://github.com/SSeyedein)
