@@ -3,7 +3,7 @@
 I'm Seyedein (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate Java & Backend Developer who loves building scalable solutions and solving real-world problems.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SSeyedein/SSeyedein/main/banner.png" alt="Banner"/>
+  <img src="https://github.com/SSeyedein/SSeyedein/raw/main/banner.png" alt="Banner"/>
 </p>
 
 ## About Me
