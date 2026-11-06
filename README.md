@@ -4,7 +4,9 @@ I'm Seyedin (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate J
 
 ## About Me
 
-I specialize in Java development, Spring Ecosystem, and enterprise web applications. I enjoy tackling complex architectural challenges and continuously expanding my backend engineering skills.
+I'm a Java Backend Developer with over 3 years of experience building secure, scalable, and maintainable backend systems using Java and the Spring Ecosystem. I specialize in designing microservice architectures and RESTful APIs for production environments.
+
+I care deeply about clean code, performance, and reliability. Whether I'm tackling complex architectural challenges or learning new tools, I'm always driven by a passion for continuous improvement and building software that matters.
 
 ## Skills & Technologies
 
