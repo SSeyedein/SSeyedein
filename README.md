@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-I'm Seyedein (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate Java & Backend Developer who loves building scalable solutions and solving real-world problems.
-
-<p align="center">
-  <img src="https://github.com/SSeyedein/SSeyedein/raw/main/banner.png" alt="Banner"/>
-</p>
+I'm Seyedin (GitHub: [@SSeyedein](https://github.com/SSeyedein)), a passionate Java & Backend Developer who loves building scalable solutions and solving real-world problems.
 
 ## About Me
 
